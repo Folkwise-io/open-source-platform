@@ -1,7 +1,7 @@
 import {NextPage} from "next"
 
 const Index: NextPage = () => {
-  return <div>Hello, world!</div>
+  return <p className="text-xl">Hello, world!</p>
 }
 
 export default Index
